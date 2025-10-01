@@ -54,14 +54,20 @@
  */
 
 public class App {
+        public static void main(String[] args) {}
+    public static void computePerimeter(int i, int j) {
+     computePerimeter(6, 4);
+     
+     System.out.println(i + j * 2.0);
+    
 
-    public static void computePerimeter() {
-
-    }
-    public static void main(String[] args) {
+    } 
+    
+        
         // B- range
         // System.out.println("Task 1:");
-        // computePerimeter(); // should PRINT 20
+    
+        // computePerimeter(6,4); // should PRINT 20
 
         // B range
         // System.out.println("Task 2:");
